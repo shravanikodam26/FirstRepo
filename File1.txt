@@ -2,3 +2,9 @@ Git Demo
 First Statement
 
 Change1 made
+
+change 2 made
+
+change 3 made
+ 
+change 4 made
